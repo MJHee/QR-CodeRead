@@ -1,15 +1,17 @@
 //
 //  main.m
-//  二维码读取
+//  04.二维码读取
 //
-//  Created by 贺梦洁 on 16/1/23.
-//  Copyright © 2016年 贺梦洁. All rights reserved.
+//  Created by apple on 13-11-23.
+//  Copyright (c) 2013年 itcast. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
+
 #import "AppDelegate.h"
 
-int main(int argc, char * argv[]) {
+int main(int argc, char * argv[])
+{
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
